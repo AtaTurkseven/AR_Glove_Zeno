@@ -1,5 +1,9 @@
 # AR_Glove_Zeno
 
+## Demo
+
+![AR_Glove_Zeno demo](Zeno_AR_Glove_Video.mp4)
+
 **AR_Glove_Zeno** is a wearable gesture-control prototype for Zeno AR glasses.
 
 It uses an **MPU6050 mounted on the index finger** to detect hand/finger motion, sends motion data wirelessly using **ESP-NOW**, and displays an animated radial action menu on an **SSD1306 OLED receiver**.
