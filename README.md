@@ -2,7 +2,7 @@
 
 ## Demo
 
-![AR_Glove_Zeno demo](Zeno_AR_Glove_Video.mp4)
+[![AR_Glove_Zeno demo](Zeno_AR_Glove_Video.mp4)](https://github.com/user-attachments/assets/177fbd3a-c446-4e7c-a9fd-ffac990c7077)
 
 **AR_Glove_Zeno** is a wearable gesture-control prototype for Zeno AR glasses.
 
